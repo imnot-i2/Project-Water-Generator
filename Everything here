@@ -1,0 +1,24 @@
+First of everything, Hackanav is a national competition for studants in 8th to 9th grade of fundamental education, where they have to make something based on a theme, 
+and in 2025 the theme was "how to use creativity to help people in a natural disaster situation?", and i had an idea : "How about to transport water to people in a much more
+efficient way?", everyone in the group liked the idea, so i was responsable to build the prototype, and the other three members were responsable to create the site and write 
+the report.
+
+And now start the interesting part, how it works? whats the science behind it? and how did i build it?
+
+The idea is to use a natural phenomenon that happens everyday and we almost never notice anymore, the one called "condensation", the process envolves making water by cooling
+the air, and the umidity in the air will condensate and turn into little droplets of water, forming the water that later get stored and filtered, and then its drinkeable.
+
+Now, let’s get to work!
+I needed Four Peltier modules (thermoelectric cooling modules), Four Single‑Tower CPU Coolers , two or three thermal pastes (any type works well), an power switch, an 12V power
+supply, and a 12v fan, and thats the all the main things in the project, the other things that i used was a 12v solar panel and an white led with an 1k resistor.
+
+The objetive were to utilize the most as possible recyclable items, so i used so i used some bottles with an aluminum foil in the inside, an plastic bottle, wooden skewers, 
+coffee filter and styrofoam that we got from a air conditioner box to make it up we made something like a chamber,  that was made with the styrofoam, and the aluminum foil was
+used to channel the water to a bottle that was responsible to store all the water that the system produced, and the wooden skewers were used to hold the styrofoam in place, and 
+we put a coffee filter in the bottle to filter the water.
+
+The eletrical part is pretty ez, you just need to connect the 12v power supply to the Single‑Tower CPU Coolers, Peltier modules (attention to the polarity) and the 12v fan,
+just make sure that your power supply can handle the eletric current and there it is, and cant forget to say that you need to use the thermal paste just like a real processor, 
+and its gonna work perfecly.
+
+Thats it!, thanks for reading!
