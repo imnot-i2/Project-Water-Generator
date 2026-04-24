@@ -6,6 +6,8 @@ melhor alcance e a incersão do projeto em meu portfólio pessoal, obrigado.
 
 -This project was carried out at ETP School in Rio das Ostras, Rio de Janeiro, with the purpose of participating in a tournament called Hackanav. The content will be presented in English to ensure broader reach and to facilitate the inclusion of the project in my personal portfolio. Thank you.
 
+Ai was used only for translator, and to improve the quality of the texts and researchs in how to make the condesation process.
+
 Agora, boa leitura!!
 
 Now, enjoy the read!
